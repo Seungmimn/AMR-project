@@ -1,0 +1,4 @@
+터틀봇 e manual
+https://emanual.robotis.com/docs/en/platform/turtlebot3/sbc_setup/#sbc-setup
+sbc setting 따라가면 된다.
+단 터틀봇 bringup 폴더의 launch 파일은 콤보박스를 하기 위해서 code가 다름
